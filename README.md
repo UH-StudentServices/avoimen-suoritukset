@@ -1,4 +1,4 @@
 # Simple data visualization demo using geojson-derived heatmaps
 
 ## License
-GPL, see: [LICENCE.txt](LICENCE.txt)
+GPL, see: [LICENSE.txt](LICENSE.txt)
